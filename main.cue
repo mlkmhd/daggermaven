@@ -1,4 +1,4 @@
-package dagger-maven
+package daggermaven
 
 
 import(
