@@ -1,1 +1,1 @@
-module: "dagger-maven"
+module: "daggermaven"
