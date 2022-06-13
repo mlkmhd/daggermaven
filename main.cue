@@ -2,7 +2,7 @@ package personal
 
 
 import(
-  "universe.dagger.io/docker"
+  "github.com/mlkmhd/universe.dagger.io/docker"
 )
 
 #Run: {
