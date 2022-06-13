@@ -1,4 +1,4 @@
-package personal
+package dagger-maven
 
 
 import(
